@@ -2,6 +2,9 @@ body{
     background-color: cornflowerblue;
     color: blue;
 }
+h1{
+    text-align: center;
+}
 .suma{
     background-color: darkcyan;
     color: rgb(19, 16, 14);
